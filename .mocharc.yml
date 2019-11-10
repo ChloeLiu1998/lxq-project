@@ -1,4 +1,2 @@
 file:
 - test/functional/api/foodtest.js
-- test/functional/api/stafftest.js
-- test/functional/api/commenttest.js
